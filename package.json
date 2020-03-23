@@ -1,10 +1,10 @@
 {
-  "name": "@karosc/jupyterlab_dracula",
+  "name": "@ashwoodall/jupyterlab_helloworldcs",
   "version": "2.0.0",
-  "description": "Dracula Theme",
-  "homepage": "https://github.com/karosc/jupyterlab_dracula",
+  "description": "Hello World CS Theme",
+  "homepage": "https://github.com/ashwoodall/jupyterlab_helloworldcs",
   "bugs": {
-    "url": "https://github.com/karosc/jupyterlab_dracula/issues"
+    "url": "https://github.com/ashwoodall/jupyterlab_helloworldcs/issues"
   },
   "license": "BSD-3-Clause",
   "author": "Project Jupyter",
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/karosc/jupyterlab_dracula.git"
+    "url": "https://github.com/ashwoodall/jupyterlab_helloworldcs.git"
   },
   "scripts": {
     "build": "run-p build:**",
