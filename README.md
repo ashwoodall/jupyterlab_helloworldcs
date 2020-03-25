@@ -9,4 +9,4 @@ jupyter labextension install @ashwoodall/jupyterlab_helloworldcs
 
 ## Screenshot
 
-TBD
+![screen shot](./demo.png)
